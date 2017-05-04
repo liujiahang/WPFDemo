@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MyNetUtil;
 
 namespace WpfApplication
 {
@@ -20,9 +21,21 @@ namespace WpfApplication
     /// </summary>
     public partial class MainWindow : Window
     {
+        private SocketProvider mServer;
         public MainWindow()
         {
             InitializeComponent();
+            mServer = new SocketProvider();
+        }
+
+        private void Conn_Click(object sender, RoutedEventArgs e)
+        {
+            mServer.start(8080);
+        }
+
+        private void Send_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }

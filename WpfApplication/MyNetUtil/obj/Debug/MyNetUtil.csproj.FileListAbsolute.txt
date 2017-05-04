@@ -1,0 +1,5 @@
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\MyNetUtil\bin\Debug\MyNetUtil.dll
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\MyNetUtil\bin\Debug\MyNetUtil.pdb
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\MyNetUtil\obj\Debug\MyNetUtil.dll
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\MyNetUtil\obj\Debug\MyNetUtil.pdb
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\MyNetUtil\obj\Debug\MyNetUtil.csprojResolveAssemblyReference.cache

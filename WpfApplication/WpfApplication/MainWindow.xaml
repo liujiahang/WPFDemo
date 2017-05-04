@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:WpfApplication"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+    <DockPanel>
+        <Button Width="200" Height="100" Content="链接" Click="Conn_Click" DockPanel.Dock="Left"/>
+        <Button Width="200" Height="100" Content="发送" Click="Send_Click" DockPanel.Dock="Right"/>
+    </DockPanel>
 </Window>
+    

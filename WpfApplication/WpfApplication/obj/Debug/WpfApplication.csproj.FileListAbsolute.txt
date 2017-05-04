@@ -1,1 +1,16 @@
 D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\bin\Debug\MyNetUtil.dll
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\bin\Debug\MyNetUtil.pdb
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\WorkSpace\PersonalProject\C#\Demo\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
